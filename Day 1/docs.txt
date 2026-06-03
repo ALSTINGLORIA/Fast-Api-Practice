@@ -1,0 +1,1 @@
+On day 1 we make a simple @app.get() to create endpoints and check the working of endpoints through the swagger ui.
