@@ -7,7 +7,7 @@ def home():
     return "Welcome to the home page"
 
 @app.get("/station")
-def station(station_num):
+def station(station_num : int):
     if station_num == 1:
         return "Romani"
     elif station_num == 2:
