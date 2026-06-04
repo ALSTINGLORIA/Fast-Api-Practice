@@ -1,0 +1,1 @@
+This program teaches about uses of pydantic models and BaseModel as well as optional json input data.
